@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/pico/telmac/emulate.c
+emulate.h
+/home/pi/pico/telmac/emulate.h
+stdio.h
+-
+string.h
+-
+
+/home/pi/pico/telmac/emulate.h
+stdint.h
+-
+
