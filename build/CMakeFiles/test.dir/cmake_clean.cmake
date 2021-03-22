@@ -59,7 +59,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
   "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
   "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
-  "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
   "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
   "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
   "CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"

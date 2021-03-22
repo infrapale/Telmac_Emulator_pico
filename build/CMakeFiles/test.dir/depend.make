@@ -1441,36 +1441,6 @@ CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj:
 CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: generated/pico_base/pico/config_autogen.h
 CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: generated/pico_base/pico/version.h
 
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/boards/include/boards/pico.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_base/include/pico.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_base/include/pico/assert.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_base/include/pico/config.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_base/include/pico/error.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_base/include/pico/types.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: generated/pico_base/pico/config_autogen.h
-CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: generated/pico_base/pico/version.h
-
 CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /home/pi/pico/pico-sdk/lib/tinyusb/src/class/audio/audio.h
 CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /home/pi/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.h
 CMakeFiles/test.dir/home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /home/pi/pico/pico-sdk/lib/tinyusb/src/class/bth/bth_device.h
@@ -1746,11 +1716,11 @@ CMakeFiles/test.dir/test.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/hardware_t
 CMakeFiles/test.dir/test.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
 CMakeFiles/test.dir/test.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
 CMakeFiles/test.dir/test.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
-CMakeFiles/test.dir/test.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
 CMakeFiles/test.dir/test.c.obj: /home/pi/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
 CMakeFiles/test.dir/test.c.obj: ../emulate.h
 CMakeFiles/test.dir/test.c.obj: ../registers.h
 CMakeFiles/test.dir/test.c.obj: ../test.c
+CMakeFiles/test.dir/test.c.obj: ../test_code.h
 CMakeFiles/test.dir/test.c.obj: generated/pico_base/pico/config_autogen.h
 CMakeFiles/test.dir/test.c.obj: generated/pico_base/pico/version.h
 
